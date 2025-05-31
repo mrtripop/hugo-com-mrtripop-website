@@ -60,7 +60,7 @@ jobs:
       - name: Build site
         run: npm run build
         env:
-          HUGO_BASEURL: https://www.mrtripop.com/
+          HUGO_BASEURL: https://mrtripop.com/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
