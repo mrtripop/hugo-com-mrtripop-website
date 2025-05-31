@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "บทความ"
+meta_title: "Mrtripop | บทความ"
+description: "บทความต่างๆที่ได้รวบรวมและกลั่นออกมาจากประสบการณ์การทำงานในโปรดักต่างๆ เพื่อสรุปสิ่งที่ได้เรียนรู้"
 ---
