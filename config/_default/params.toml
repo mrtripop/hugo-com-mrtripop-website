@@ -1,9 +1,9 @@
 #################### default parameters ############################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/favicon.png"
+favicon = "images/mrtripop-iconic-image.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/mrtripop-banner-v1.png"
+logo_darkmode = "images/mrtripop-banner-v1.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -28,6 +28,8 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+# title prefix for browser title
+title_prefix = "Mrtripop"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
